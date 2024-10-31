@@ -28,6 +28,8 @@ A manager at a `Pizza Store` aims to analyze 2015 sales data to identify growth 
 ### Dataset 
 There are `48260 records` and `12 features`. The features terdiri dari:
 
+
+### Decriptive Statistics
 | Feature | Description | Detail |
 | :------------ |:---------------| -----|
 |pizza_id| A unique identifier for each type of pizza, useful for specifically identifying pizzas|48620 ids |
@@ -42,19 +44,25 @@ There are `48260 records` and `12 features`. The features terdiri dari:
 |pizza_category| The category of the pizza (e.g., vegetarian, meat lovers, etc.), helpful for understanding which categories customers prefer|Chicken, Classic, Supreme, Veggie|
 |pizza_ingredients| A list of ingredients in the pizza, which can be analyzed to identify preferences for toppings or ingredients|32 kinds|
 |pizza_name| The name of the pizza, making it easier to identify the types of pizzas ordered|32 kinds|
-### Decriptive Statistics
-#### 1. KPI's
-   ![image](https://github.com/user-attachments/assets/533eafc6-6ca3-4344-8480-10d65fd839d7)
-
-#### 2. Sales Trends
-  ![image](https://github.com/user-attachments/assets/42818504-a551-459d-a536-24fe537fd0c0)
-
-  
 
 
 
 ### Insights
 
 ## Analyze & Visualize Data
+
+### 1. KPI's
+   ![image](https://github.com/user-attachments/assets/533eafc6-6ca3-4344-8480-10d65fd839d7)
+
+### 2. Sales Trends
+  ![image](https://github.com/user-attachments/assets/42818504-a551-459d-a536-24fe537fd0c0)
+
+  
+https://github.com/user-attachments/assets/8244faac-731b-457b-8b38-8c2505f523fb
+
+### 3. Pizza Category
+
+
+
 
 ## Business Insights & Recommendation
