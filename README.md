@@ -26,23 +26,32 @@ A manager at a `Pizza Store` aims to analyze 2015 sales data to identify growth 
 
 ## Exploratory Data Analysis (EDA)
 ### Dataset 
-There are 48260 records and 12 features. The features terdiri dari:
+There are `48260 records` and `12 features`. The features terdiri dari:
 
 | Feature | Description | Detail |
 | :------------ |:---------------| -----|
-|pizza_id| A unique identifier for each type of pizza, useful for specifically identifying pizzas|  |
-|order_id| A unique identifier for each order, helping to count the total number of orders and observe order trends| |
-|pizza_name_id| A specific ID for the pizza name, which can be used to group orders by pizza name| |
-|quantity| The number of pizzas ordered, essential for seeing sales volume and identifying best-selling pizzas||
-|order_date| The date of the order, useful for analyzing sales trends by day, month, or season||
-|order_time| The time of the order, beneficial for observing sales patterns during specific hours or times of day||
+|pizza_id| A unique identifier for each type of pizza, useful for specifically identifying pizzas|48620 ids |
+|order_id| A unique identifier for each order, helping to count the total number of orders and observe order trends|21350 ids |
+|pizza_name_id| A specific ID for the pizza name, which can be used to group orders by pizza name| 92 ids|
+|quantity| The number of pizzas ordered, essential for seeing sales volume and identifying best-selling pizzas|-|
+|order_date| The date of the order, useful for analyzing sales trends by day, month, or season|01-01-2015 to 31-12-2015|
+|order_time| The time of the order, beneficial for observing sales patterns during specific hours or times of day|9am - 11pm|
 |unit_price| The price per pizza, useful for calculating total revenue and analyzing price differences among pizza categories||
-|total_price| The total price of the order, allowing for the analysis of average order value and total revenue||
+|total_price| The total price of the order, allowing for the analysis of average order value and total revenue|-|
 |pizza_size| The size of the pizza, which can be used to determine the most popular pizza sizes among customers|Regular, Medium, Large, X-Large, XX-Large|
-|pizza_category| The category of the pizza (e.g., vegetarian, meat lovers, etc.), helpful for understanding which categories customers prefer||
-|pizza_ingredients| A list of ingredients in the pizza, which can be analyzed to identify preferences for toppings or ingredients||
-|pizza_name| The name of the pizza, making it easier to identify the types of pizzas ordered||
+|pizza_category| The category of the pizza (e.g., vegetarian, meat lovers, etc.), helpful for understanding which categories customers prefer|Chicken, Classic, Supreme, Veggie|
+|pizza_ingredients| A list of ingredients in the pizza, which can be analyzed to identify preferences for toppings or ingredients|32 kinds|
+|pizza_name| The name of the pizza, making it easier to identify the types of pizzas ordered|32 kinds|
 ### Decriptive Statistics
+#### 1. KPI's
+   ![image](https://github.com/user-attachments/assets/533eafc6-6ca3-4344-8480-10d65fd839d7)
+
+#### 2. Sales Trends
+  ![image](https://github.com/user-attachments/assets/42818504-a551-459d-a536-24fe537fd0c0)
+
+  
+
+
 
 ### Insights
 
