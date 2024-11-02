@@ -52,17 +52,20 @@ There are `48260 records` and `12 features`. The features terdiri dari:
 ## Analyze & Visualize Data
 
 ### 1. KPI's
-   ![image](https://github.com/user-attachments/assets/533eafc6-6ca3-4344-8480-10d65fd839d7)
+  ![image](https://github.com/user-attachments/assets/0d17f8e0-883e-4d28-b826-35b216965f26)
+
 
 ### 2. Sales Trends
-  ![image](https://github.com/user-attachments/assets/42818504-a551-459d-a536-24fe537fd0c0)
+ ![image](https://github.com/user-attachments/assets/621a3ee9-a69a-4caf-ad80-d1572dd93728)
 
-  
-https://github.com/user-attachments/assets/8244faac-731b-457b-8b38-8c2505f523fb
 
 ### 3. Pizza Category
+![image](https://github.com/user-attachments/assets/a6558516-6db5-4c1e-a75f-f8c5cdf4fc91)
+
 
 
 
 
 ## Business Insights & Recommendation
+### Insights
+1. 
