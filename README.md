@@ -61,8 +61,13 @@ There are `48260 records` and `12 features`. The features terdiri dari:
 
 ### 3. Pizza Category
 ![image](https://github.com/user-attachments/assets/a6558516-6db5-4c1e-a75f-f8c5cdf4fc91)
+https://github.com/user-attachments/assets/b6dab537-10d4-478d-a4e7-8bf29539a96e
 
+### 4. Pizza Size
+![image](https://github.com/user-attachments/assets/7d934ac9-8af5-450c-908b-bf1a68f9d1a5)
 
+### 5. Best/Worst-Selling 
+![image](https://github.com/user-attachments/assets/dd13e797-0d01-4258-90e8-777ab833ade7)
 
 
 
