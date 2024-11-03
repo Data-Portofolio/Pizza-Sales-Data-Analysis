@@ -104,6 +104,8 @@ https://github.com/user-attachments/assets/243dca8f-62ab-4aac-9b55-6bdd9cbfb0ee
 
 ![image](https://github.com/user-attachments/assets/e2449575-1831-4a43-904c-92611fff8b06)
 
+https://github.com/user-attachments/assets/aa9289f4-2f1e-429a-966c-b5c54a4282b2
+
 #### Explanation:
 
 * `The Best-Selling pizzas` based on the highest sales are **The Classic Deluxe**, which sold **2,453 boxe**, contributing approximately ~10% of the total revenue, followed by The Barbecue Chicken, The Hawaiian, The Pepperoni, and The Thai Chicken. The 5th best-selling pizzas are **Chicken and Classic pizza categories**.
