@@ -150,6 +150,6 @@ Based on the visual analysis and insights above, there are several recommendatio
 - **Product Discontinuation**: Identify consistently low-performing products for potential discontinuation. I recommend not continuing **The Brie Carre**.
 
 #### 6. Analyze Customer Preferences
-- **Feedback Loop**: Regularly collect customer feedback on pizza preferences and sizes to adjust offerings based on consumer demand and trends.
-- **Sales Data Monitoring**: Continuously monitor sales data for emerging trends, and adjust the menu and marketing strategies accordingly to stay aligned with customer preferences.
+- **Customer Survey**: Regularly collect customer feedback on pizza preferences and sizes to adjust offerings based on consumer demand and trends.
+
 
