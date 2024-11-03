@@ -65,6 +65,7 @@ A manager at a `Pizza Store` aims to analyze 2015 sales data to identify growth 
 ### 3. Pizza Category
 
 ![image](https://github.com/user-attachments/assets/a6558516-6db5-4c1e-a75f-f8c5cdf4fc91)
+
 https://github.com/user-attachments/assets/a41b907c-b2af-4088-a761-ffe1d263e02f
 
 | Category | Description | Detail |
