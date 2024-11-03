@@ -119,7 +119,7 @@ https://github.com/user-attachments/assets/aa9289f4-2f1e-429a-966c-b5c54a4282b2
 ### Insights
 
 1. The peak hours for customers ordering pizza are from **12:00-1:00 pm** during `lunch` and **5:00-6:00 pm** during `dinner`. The highest number of pizza orders occurs during lunchtime, but generally, there is also a significant volume of customer orders throughout the afternoon. This pattern suggests that while lunch remains the peak time for orders, the late afternoon period also maintains a steady demand from customers. In terms of pizza categories, during both peak hours, **Classic Pizza Category** is the most ordered by customers.
-2. `The total revenue` this year is **$817.9K**, with the `highest revenue` occurring in **the second quarter (Q2)**, specifically in **July**. A closer look shows that sales are highest on **Thursdays, Fridays, and Saturdays** compared to other days.
+2. `Total revenue` for this year is $817.9K, with the highest revenue recorded in the second quarter (Q2), particularly in July, which coincides with **Summer Season**. A closer analysis reveals that sales peak on Thursdays, Fridays, and Saturdays compared to other days.
 3. Overall, the pizza category that generates `the highest revenue` is **Classic**, accounting for `26.91%` or $220.05K, but other categories also contribute nearly balanced proportions of revenue.
 4. Based on revenue, the Large pizza size contributes approximately 45% of total revenue, Medium contributes about 30%, and Small contributes around 21%. Meanwhile, **X-Large and XX-Large sizes** have **very low revenue**, at less than 2%. In terms of customer preferences, the **Large size** is also the most popular, with **59.65%** of total customers who have ordered, followed by 52.27% for Medium and 49.13% for Small.
 5. Some pizzas have the best and worst sales figures. Overall, the **Chicken and Classic pizza categories** are the top-selling categories, with the best product being **The Classic Deluxe**. On the other hand, the worst-selling pizza comes from the Supreme category, specifically **The Brie Carre**, as this pizza has the highest price among others, costing $23.65 for a small size.
@@ -133,7 +133,8 @@ Based on the visual analysis and insights above, there are several recommendatio
 - **Lunch and Dinner Promotions**: Introduce special promotions during peak ordering hours (12:00-1:00 PM and 5:00-6:00 PM) to encourage more orders. Consider combo deals that include a drink or side with pizza orders.
 - **Targeted Marketing Campaigns**: Launch marketing campaigns focusing on the Classic Pizza category during these peak times, highlighting popular items like **The Classic Deluxe**.
 
-#### 2. Focus on High-Performance Days
+#### 2. Focus on High-Performance Season
+- **Seasonal Promotion**: Organize special events during the summer in Q2 (July) and, if possible, collaborate with local areas to attract customer attention. You can also send email marketing campaigns promoting pizza during the summer. The store can create special summer events offering free shipping on family-sized orders.
 - **Weekly Specials**: Since Thursdays, Fridays, and Saturdays show higher sales, implement weekly specials on these days to attract more customers. Consider themed nights, such as art events, music, or other entertainment to attract customers, especially families.
 - **Loyalty Rewards**: Encourage repeat purchases on peak days through a loyalty program that offers discounts or freebies for orders placed on these specific days.
 
