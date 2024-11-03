@@ -24,7 +24,9 @@ A manager at a `Pizza Store` aims to analyze 2015 sales data to identify growth 
 
 ## Exploratory Data Analysis (EDA)
 ### Dataset 
-There are `48260 records` and `12 features`. The features terdiri dari:
+
+- Source: https://www.mavenanalytics.io/data-playground?order=date_added%2Cdesc&search=pizza
+- There are `48260 records` and `12 features`.
 
 
 ### Decriptive Statistics
@@ -58,17 +60,18 @@ There are `48260 records` and `12 features`. The features terdiri dari:
  #### Explanation:  
 * Based on the bar chart, it can be seen that there are two peak hours, which are from **12:00 to 1:00 PM** and from **5:00 to 6:00 PM**. Generally, customers prefer ordering pizza in the afternoon rather than in the morning.
 * There is a seasonal pattern in the pizza order time data. Pizza sales reach their peak in **the second quarter (Q2)**, specifically in **July**. In July, sales account for approximately **8%** of the total revenue.
-*A detailed analysis of the period from January to December 2015 indicates that customer demand for pizza was highest on Thursdays, Fridays, and Saturdays. These days consistently recorded the highest volume of orders, highlighting key periods of peak consumer activity.
+* A detailed analysis of the period from January to December 2015 indicates that customer demand for pizza was highest on **Thursdays, Fridays, and Saturdays**. These days consistently recorded the highest volume of orders, highlighting key periods of peak consumer activity.
 
 ### 3. Pizza Category
 
 ![image](https://github.com/user-attachments/assets/a6558516-6db5-4c1e-a75f-f8c5cdf4fc91)
 
-https://github.com/user-attachments/assets/b6dab537-10d4-478d-a4e7-8bf29539a96e
-> **Classic pizza**: Traditional flavors.
- **Supreme pizza**: A variety of toppings.
- **Chicken pizza**: Main ingredient is chicken.
- **Veggie pizza**: Fresh and vegetarian option.
+| Category | Description | Detail |
+| :------------ |:---------------| -----|
+|**Classic pizza**| Traditional flavors|The Napolitana, The Italian Capocollo, the Greek, The Classic Deluxe, The Big Meat, The Hawaiian, The Pepeperoni|
+| **Supreme pizza**| A variety of toppings|The Spicy Italian, the Prociutto and Arugula, The Pepper Salami, The Italian Supreme, The Sicilian|
+|**Chicken pizza**| Main ingredient is chicken|The Thai Chicken, The Southwest Chicken, The California Chicken, The Barbecue Chicken|
+| **Veggie pizza**|Fresh and vegetarian option|The Four Cheese, The Vegetables+Vegetables, The Spinach and Feta, The Mexicana|
   
 #### Explanation:  
 
