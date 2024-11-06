@@ -110,7 +110,7 @@ https://github.com/user-attachments/assets/aa9289f4-2f1e-429a-966c-b5c54a4282b2
 
 #### Explanation:
 
-* `The Best-Selling pizzas` based on the highest sales are **The Classic Deluxe**, which sold **2,453 boxe**, contributing approximately ~10% of the total revenue, followed by The Barbecue Chicken, The Hawaiian, The Pepperoni, and The Thai Chicken. The 5th best-selling pizzas are **Chicken and Classic pizza categories**.
+* `The Best-Selling pizzas` based on the highest sales are **The Classic Deluxe**, which sold **2,453 boxes**, contributing approximately ~10% of the total revenue, followed by The Barbecue Chicken, The Hawaiian, The Pepperoni, and The Thai Chicken. The 5th best-selling pizzas are **Chicken and Classic pizza categories**.
 *  Conversely, `the Worst-Selling Pizzas` is **The Brie Carre** with **490 boxes** sold. This is likely due to it being the most expensive pizza type, with the small size priced at **$23.65**. For the worst-selling pizzas, **the Supreme category** has poor sales performance.
 
 
@@ -118,11 +118,11 @@ https://github.com/user-attachments/assets/aa9289f4-2f1e-429a-966c-b5c54a4282b2
 ## Business Insights & Recommendation
 ### Insights
 
-1. The peak hours for customers ordering pizza are from **12:00-1:00 pm** during `lunch` and **5:00-6:00 pm** during `dinner`. The highest number of pizza orders occurs during lunchtime, but generally, there is also a significant volume of customer orders throughout the afternoon. This pattern suggests that while lunch remains the peak time for orders, the late afternoon period also maintains a steady demand from customers. In terms of pizza categories, during both peak hours, **Classic Pizza Category** is the most ordered by customers.
-2. `Total revenue` for this year is $817.9K, with the highest revenue recorded in the second quarter (Q2), particularly in July, which coincides with **Summer Season**. A closer analysis reveals that sales peak on Thursdays, Fridays, and Saturdays compared to other days.
-3. Overall, the pizza category that generates `the highest revenue` is **Classic**, accounting for `26.91%` or $220.05K, but other categories also contribute nearly balanced proportions of revenue.
-4. Based on revenue, the Large pizza size contributes approximately 45% of total revenue, Medium contributes about 30%, and Small contributes around 21%. Meanwhile, **X-Large and XX-Large sizes** have **very low revenue**, at less than 2%. In terms of customer preferences, the **Large size** is also the most popular, with **59.65%** of total customers who have ordered, followed by 52.27% for Medium and 49.13% for Small.
-5. Some pizzas have the best and worst sales figures. Overall, the **Chicken and Classic pizza categories** are the top-selling categories, with the best product being **The Classic Deluxe**. On the other hand, the worst-selling pizza comes from the Supreme category, specifically **The Brie Carre**, as this pizza has the highest price among others, costing $23.65 for a small size.
+1. The peak hours for customers ordering pizza are from **12:00-1:00 pm** during `lunch` and **5:00-6:00 pm** during `dinner`. The highest number of pizza orders occurs during lunchtime, but generally, there is also a significant volume of customer orders throughout the afternoon. In terms of pizza categories, during both peak hours, **Classic Pizza Category** is the most ordered by customers.
+2. `Total revenue` for this year is **$817.9K**, with the highest revenue recorded in the second quarter **(Q2)**, particularly in **July**, which coincides with **Summer Season**. A closer analysis reveals that sales peak on Thursdays, Fridays, and Saturdays compared to other days.
+3. Overall, the pizza category that generates `the highest revenue` is **Classic**, accounting for `26.91%` or **$220.05K**, but other categories also contribute nearly balanced proportions of revenue.
+4. Based on revenue, **the Large pizza size** contributes approximately **45%** of total revenue, **Medium** contributes about **30%**, and **Small** contributes around **21%**. Meanwhile, **X-Large and XX-Large sizes** have **very low revenue**, at less than ~2%. In terms of customer preferences, the **Large size** is also the most popular, with **59.65%** of total customers who have ordered, followed by 52.27% for **Medium** and 49.13% for **Small**.
+5. Some pizzas have the best and worst sales figures. Overall, the **Chicken and Classic pizza categories** are the top-selling categories, with the best product being **The Classic Deluxe**, **The Barbecue Chicken**, **The Hawaiian**,**The Pepeperoni**, **The Thai Chicken**. On the other hand, the worst-selling pizza comes from the Supreme category, specifically **The Brie Carre**, as this pizza has the highest price among others, costing $23.65 for a small size.
 6. There are several best-selling products that can further improve their sales through various treatments. Additionally, some products should be focused on specific sizes, while others may need to be discontinued due to very low sales performance.
 
 
@@ -131,7 +131,7 @@ Based on the visual analysis and insights above, there are several recommendatio
 
 #### 1. Optimize Peak Hour Operations
 - **Lunch and Dinner Promotions**: Introduce special promotions during peak ordering hours (12:00-1:00 PM and 5:00-6:00 PM) to encourage more orders. Consider combo deals that include a drink or side with pizza orders.
-- **Targeted Marketing Campaigns**: Launch marketing campaigns focusing on the Classic Pizza category during these peak times, highlighting popular items like **The Classic Deluxe**.
+- **Targeted Marketing Campaigns**: Launch marketing campaigns focusing on the Classic Pizza category during these peak times, highlighting popular items like **The Classic Deluxe**, **The Barbecue Chicken**, **The Hawaiian**,**The Pepeperoni**, **The Thai Chicken**.
 
 #### 2. Focus on High-Performance Season
 - **Seasonal Promotion**: Organize special events during the summer in Q2 (July) and, if possible, collaborate with local areas to attract customer attention. You can also send email marketing campaigns promoting pizza during the summer. The store can create special summer events offering free shipping on family-sized orders.
