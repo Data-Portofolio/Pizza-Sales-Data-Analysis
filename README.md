@@ -40,7 +40,7 @@ A manager at a `Pizza Store` aims to analyze 2015 sales data to identify growth 
 |order_time| The time of the order, beneficial for observing sales patterns during specific hours or times of day|9am - 11pm|
 |unit_price| The price per pizza, useful for calculating total revenue and analyzing price differences among pizza categories||
 |total_price| The total price of the order, allowing for the analysis of average order value and total revenue|-|
-|pizza_size| The size of the pizza, which can be used to determine the most popular pizza sizes among customers|Regular, Medium, Large, X-Large, XX-Large|
+|pizza_size| The size of the pizza, which can be used to determine the most popular pizza sizes among customers|Small, Medium, Large, X-Large, XX-Large|
 |pizza_category| The category of the pizza (e.g., vegetarian, meat lovers, etc.), helpful for understanding which categories customers prefer|Chicken, Classic, Supreme, Veggie|
 |pizza_ingredients| A list of ingredients in the pizza, which can be analyzed to identify preferences for toppings or ingredients|32 kinds|
 |pizza_name| The name of the pizza, making it easier to identify the types of pizzas ordered|32 kinds|
@@ -106,7 +106,6 @@ https://github.com/user-attachments/assets/243dca8f-62ab-4aac-9b55-6bdd9cbfb0ee
 
 ![image](https://github.com/user-attachments/assets/e2449575-1831-4a43-904c-92611fff8b06)
 
-https://github.com/user-attachments/assets/aa9289f4-2f1e-429a-966c-b5c54a4282b2
 
 #### Explanation:
 
