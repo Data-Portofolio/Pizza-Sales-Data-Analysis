@@ -144,7 +144,7 @@ Based on the visual analysis and insights above, there are several recommendatio
 
 #### 4. Adjust Size Offerings
 - **Focus on Popular Sizes**: Given that the Large size accounts for approximately 45% of total revenue and is the most popular among customers, consider optimizing the menu to highlight Large pizza options.
-- **Discontinue Low-Selling Sizes**: I recommend focusing only on sizes that have high demand, especially those ordered less than 200 times during the 2015 periode. 
+- **Discontinue Low-Selling Sizes**: I recommend focusing only on sizes that have high demand, especially those ordered less than **200 boxes** during the 2015 periode. 
 - **Encourage Medium and Small Sizes**: Offer discounts or promotional deals on Medium and Small sizes to boost their sales, especially for customers looking for lighter options. consider combo deals or buy 1 something size get the small or medium size 
 
 #### 5. Address Underperforming Products
