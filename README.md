@@ -1,5 +1,16 @@
 <h1 align="center"> █▓▒▒░░░PIZZA SALES DATA ANALYSIS░░░▒▒▓█ </h1>
 
+<p align='center'>
+    <a href='https://github.com/astutir'><img alt='Follow Me on GitHub' title='Follow Me on GitHub' src='https://custom-icon-badges.herokuapp.com/github/followers/astutir?style=for-the-badge&&label=GitHub&logo=Github&color=green'/>
+    </a>
+     <a href='https://www.linkedin.com/in/a-rahmawati' target='_blank'><img alt='Follow Me on LinkedIn' title='Follow Me on LinkedIn' src='https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white' alt='LinkedIn Profile'/>
+    </a>
+    <a href='https://public.tableau.com/app/profile/astuti.rahma/viz/PizzaSalesDashboard_17300172277160/LIGHT-MODE' target='_blank'>
+    <img src='https://img.shields.io/badge/Tableau-Visit%20Dashboard-grey?style=for-the-badge&logo=tableau&logoColor=white&labelColor=red' alt='Tableau Public Profile'/>
+</a>
+
+</p>
+
 ## Business Understanding
 
 ### Problem Statement
