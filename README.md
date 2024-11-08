@@ -1,5 +1,8 @@
-<h1 align="center"> █▓▒▒░░░PIZZA SALES DATA ANALYSIS░░░▒▒▓█ 
+<h3 align="center"> ▒░░░PIZZA SALES DATA ANALYSIS░░░▒
 
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/1b329a2b-2804-4275-96da-8518dce2b769" width="180" height="200" />
+</p>
 
 <p align='center'>
     <a href='https://github.com/astutir'><img alt='Follow Me on GitHub' title='Follow Me on GitHub' src='https://custom-icon-badges.herokuapp.com/github/followers/astutir?style=for-the-badge&&label=GitHub&logo=Github&color=green'/>
@@ -10,7 +13,9 @@
     <img src='https://img.shields.io/badge/Tableau-Visit%20Dashboard-grey?style=for-the-badge&logo=tableau&logoColor=white&labelColor=red' alt='Tableau Public Profile'/>
 </a>
 </p>
-</h1>
+
+</h3>
+
 ## Business Understanding
 
 ### Problem Statement
