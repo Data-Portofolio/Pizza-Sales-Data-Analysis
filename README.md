@@ -153,3 +153,8 @@ Based on the visual analysis and insights above, there are several recommendatio
 - **Customer Survey**: Regularly collect customer feedback on pizza preferences and sizes to adjust offerings based on consumer demand and trends.
 
 
+<p align="right">(<a href="#top">back to top</a>)</p>
+
+<p align="center">
+    :copyright: 2024 | A-Rahmawati </p>
+</h3>
